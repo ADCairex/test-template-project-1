@@ -1,7 +1,7 @@
 **HACE PR CONTRA EL PROYECTO HIJO**
 
 # Sincroniza el repositorio de plantilla con el proyecto hijo
-Este archivo ha sido modificado manualmente en el proyecto hijo.
+Este archivo se sincroniza automáticamente. No edites este archivo directamente en los proyectos hijos.
 
 # Cómo sincronizar el repositorio de plantilla con el proyecto hijo
 
